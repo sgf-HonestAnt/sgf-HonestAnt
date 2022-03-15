@@ -49,8 +49,7 @@ You can find me on [<img src="https://user-images.githubusercontent.com/82496944
 [3]: https://www.linkedin.com/in/sarahguineverefisher
 [4]: mailto:sgfishercardiff@gmail.com
 
-<a href="https://www.youtube.com/watch?v=wH4G0BhBfBA
-" target="_blank"><img src="https://user-images.githubusercontent.com/82496944/158368842-e299f23c-7d0b-45d6-a95d-3ec34366521e.png" 
+<a href="https://youtu.be/wH4G0BhBfBA?t=894" target="_blank"><img src="https://user-images.githubusercontent.com/82496944/158368842-e299f23c-7d0b-45d6-a95d-3ec34366521e.png" 
 alt="SOLO CAPSTONE DEMO DAY" width="240" border="10" /></a>
 
 ## 📈 GitHub Stats
