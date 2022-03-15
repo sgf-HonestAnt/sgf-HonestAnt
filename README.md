@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- I'm currently working on my <a href="https://portfolio-sgf-honestant.vercel.app/">portfolio</a>.
+<!-- ### I'm currently working on my <a href="https://portfolio-sgf-honestant.vercel.app/">portfolio</a>.
  -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=plastic&logo=mongodb) 
 ![Express.js](https://img.shields.io/badge/Express.js-darkgreen?style=plastic&logo=express) 
@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 ## 😊 A little about me:
 
-I am a full-stack (MERN) developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻.
+### I am a full-stack (MERN) developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻.
 
-I ❤️ my job & would like to make connections.
+### I ❤️ my job & would like to make connections 🤝.
 
-You can find me on [<img src="https://user-images.githubusercontent.com/82496944/158373394-d4093756-7540-4e9d-822a-921cad7a870d.png" alt="Styled Facebook icon" height="20px">][1], [<img src="https://user-images.githubusercontent.com/82496944/158373534-94116b1d-5460-4dde-9e1c-2b9d4ab7ee5e.png" alt="Styled Instagram icon" height="20px">][2], [<img src="https://user-images.githubusercontent.com/82496944/158372940-173f6027-a258-4aa5-9a5d-0fbba234694f.png" alt="Styled LinkedIn icon" height="20px">][3] or [<img src="https://user-images.githubusercontent.com/82496944/158374286-3c6f10c6-eeed-4d7a-9b15-2f835a4acf74.png" alt="Styled email icon" height="20px">][4] or watch me demonstrate my capstone project:
+### You can find me on [<img src="https://user-images.githubusercontent.com/82496944/158373394-d4093756-7540-4e9d-822a-921cad7a870d.png" alt="Styled Facebook icon" height="20px">][1], [<img src="https://user-images.githubusercontent.com/82496944/158373534-94116b1d-5460-4dde-9e1c-2b9d4ab7ee5e.png" alt="Styled Instagram icon" height="20px">][2], [<img src="https://user-images.githubusercontent.com/82496944/158372940-173f6027-a258-4aa5-9a5d-0fbba234694f.png" alt="Styled LinkedIn icon" height="20px">][3] or [<img src="https://user-images.githubusercontent.com/82496944/158374286-3c6f10c6-eeed-4d7a-9b15-2f835a4acf74.png" alt="Styled email icon" height="20px">][4] or watch me demonstrate my capstone project:
 
 <!-- Links to your social media accounts -->
 
