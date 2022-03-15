@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- I'm currently working on my <a href="https://portfolio-sgf-honestant.vercel.app/">portfolio</a>.
+ -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=plastic&logo=mongodb) 
 ![Express.js](https://img.shields.io/badge/Express.js-darkgreen?style=plastic&logo=express) 
 ![React](https://img.shields.io/badge/React-darkgreen?style=plastic&logo=react) 
@@ -32,9 +34,22 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-2a2a2a?style=plastic&logo=postman) 
 ![Vercel](https://img.shields.io/badge/Vercel-2a2a2a?style=plastic&logo=vercel) 
 ![Heroku](https://img.shields.io/badge/Heroku-2a2a2a?style=plastic&logo=heroku) 
-![SocketIO](https://img.shields.io/badge/Socket.io-2a2a2a?style=plastic&logo=socket.io) 
+![SocketIO](https://img.shields.io/badge/Socket.io-2a2a2a?style=plastic&logo=socket.io)
 
-## 😊 About me:
+## 📈 My stats:
+
+<a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgf-HonestAnt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgf-HonestAnt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
+</a>
+
+<!-- <a href="https://github.com/sgf-HonestAnt/Bamboo_FE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sgf-HonestAnt&repo=Bamboo_FE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>     -->
+
+## 😊 A little about me:
 
 I am a full-stack (MERN) developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻.
 
@@ -49,18 +64,7 @@ You can find me on [<img src="https://user-images.githubusercontent.com/82496944
 [3]: https://www.linkedin.com/in/sarahguineverefisher
 [4]: mailto:sgfishercardiff@gmail.com
 
-<a href="https://youtu.be/wH4G0BhBfBA?t=894" target="_blank"><img src="https://user-images.githubusercontent.com/82496944/158368842-e299f23c-7d0b-45d6-a95d-3ec34366521e.png" 
+<a href="https://youtu.be/wH4G0BhBfBA?t=894"><img src="https://user-images.githubusercontent.com/82496944/158368842-e299f23c-7d0b-45d6-a95d-3ec34366521e.png" 
 alt="SOLO CAPSTONE DEMO DAY" width="240" border="10" /></a>
 
-## 📈 GitHub Stats
 
-<a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgf-HonestAnt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgf-HonestAnt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<!-- <a href="https://github.com/sgf-HonestAnt/Bamboo_FE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sgf-HonestAnt&repo=Bamboo_FE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     -->
