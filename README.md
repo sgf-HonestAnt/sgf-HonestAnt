@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sarah, a MERN stack developer 👋
 
 <!--
 **sgf-HonestAnt/sgf-HonestAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on <a href="https://portfolio-sgf-honestant.vercel.app/">my portfolio</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sarahguineverefisher/">LinkedIn</a>, <a href="https://www.facebook.com/sarahguineverefisher/">Facebook</a>, <a href="https://www.instagram.com/harkertherescue/">Instagram</a>, <a href="mailto:sgfishercardiff@gmail.com">email</a>
