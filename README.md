@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 😊 A little about me:
 
-### I am a full-stack (MERN) developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻.
+### I am a full-stack developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻.
 
 ### I ❤️ my job & would like to make connections 🤝.
 
