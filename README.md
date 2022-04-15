@@ -1,4 +1,4 @@
-# Hi! I'm Sarah, a MERN stack developer open to work <img src="https://user-images.githubusercontent.com/82496944/158371286-0c66705f-081a-4d63-923f-6f8a781778a5.gif" width="30px">
+# Hi! I'm Sarah, a MERN stack developer <img src="https://user-images.githubusercontent.com/82496944/158371286-0c66705f-081a-4d63-923f-6f8a781778a5.gif" width="30px">
 
 <!--
 **sgf-HonestAnt/sgf-HonestAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,11 +51,9 @@ Here are some ideas to get you started:
 
 ## 😊 A little about me:
 
-### I am a full-stack developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻.
-
-### I ❤️ my job & would like to make connections 🤝.
-
-### You can find me on [<img src="https://user-images.githubusercontent.com/82496944/158373394-d4093756-7540-4e9d-822a-921cad7a870d.png" alt="Styled Facebook icon" height="20px">][1], [<img src="https://user-images.githubusercontent.com/82496944/158373534-94116b1d-5460-4dde-9e1c-2b9d4ab7ee5e.png" alt="Styled Instagram icon" height="20px">][2], [<img src="https://user-images.githubusercontent.com/82496944/158372940-173f6027-a258-4aa5-9a5d-0fbba234694f.png" alt="Styled LinkedIn icon" height="20px">][3] or [<img src="https://user-images.githubusercontent.com/82496944/158374286-3c6f10c6-eeed-4d7a-9b15-2f835a4acf74.png" alt="Styled email icon" height="20px">][4] or watch me demonstrate my capstone project:
+### I am a full-stack developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻. 
+### I ❤️ my job & would like to make connections 🤝
+### You can find me on [facebook][1], [instagram][2] and [linkedin][3]
 
 <!-- Links to your social media accounts -->
 
@@ -63,8 +61,8 @@ Here are some ideas to get you started:
 [2]: https://www.instagram.com/harkertherescue/
 [3]: https://www.linkedin.com/in/sarahguineverefisher
 [4]: mailto:sgfishercardiff@gmail.com
-
+<!-- 
 <a href="https://youtu.be/wH4G0BhBfBA?t=894"><img src="https://user-images.githubusercontent.com/82496944/158368842-e299f23c-7d0b-45d6-a95d-3ec34366521e.png" 
-alt="SOLO CAPSTONE DEMO DAY" width="240" border="10" /></a>
+alt="SOLO CAPSTONE DEMO DAY" width="240" border="10" /></a> -->
 
 
