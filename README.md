@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <!-- ### I'm currently working on my <a href="https://portfolio-sgf-honestant.vercel.app/">portfolio</a>.
  -->
@@ -42,11 +43,11 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgf-HonestAnt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarah's GitHub Stats" />
-</a>
+</a> -->
 
 <!-- <a href="https://github.com/sgf-HonestAnt/Bamboo_FE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sgf-HonestAnt&repo=Bamboo_FE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     --> -->
+</a>     -->
 
 ## 😊 A little about me:
 
