@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=plastic&logo=mongodb) 
 ![Express.js](https://img.shields.io/badge/Express.js-darkgreen?style=plastic&logo=express) 
 ![React](https://img.shields.io/badge/React-darkgreen?style=plastic&logo=react) 
-![Next](https://img.shields.io/badge/Next-darkgreen?style=plastic&logo=next) 
+![Next](https://img.shields.io/badge/Next-darkgreen?style=plastic&logo=nextjs) 
 ![NodeJS](https://img.shields.io/badge/Node.js-darkgreen?style=plastic&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2a2a2a?style=plastic&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2a2a2a?style=plastic&logo=typescript) 
