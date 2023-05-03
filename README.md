@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/Heroku-2a2a2a?style=plastic&logo=heroku) 
 ![SocketIO](https://img.shields.io/badge/Socket.io-2a2a2a?style=plastic&logo=socket.io)
 
-## 📈 My stats:
+<!-- ## 📈 My stats:
 
 <a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgf-HonestAnt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://github.com/sgf-HonestAnt/Bamboo_FE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sgf-HonestAnt&repo=Bamboo_FE&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     -->
+</a>     --> -->
 
 ## 😊 A little about me:
 
