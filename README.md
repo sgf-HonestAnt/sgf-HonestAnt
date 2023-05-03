@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 
 [1]: https://www.facebook.com/sarahguineverefisher
-[2]: https://www.instagram.com/harkertherescue/
+[2]: https://www.instagram.com/sarah_the_dev/
 [3]: https://www.linkedin.com/in/sarahguineverefisher
 [4]: mailto:sgfishercardiff@gmail.com
 <!-- 
