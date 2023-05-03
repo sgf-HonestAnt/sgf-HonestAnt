@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### I am a full-stack developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻. 
 ### I ❤️ my job & would like to make connections 🤝
-### You can find me on [facebook][1], [instagram][2] and [linkedin][3]
+### You can find me on [facebook][1]{:target="_blank" rel="noopener"}, [instagram][2]{:target="_blank" rel="noopener"} and [linkedin][3]{:target="_blank" rel="noopener"}
 
 <!-- Links to your social media accounts -->
 
