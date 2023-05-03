@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VsCode-2a2a2a?style=plastic&logo=vscode) 
 ![Postman](https://img.shields.io/badge/Postman-2a2a2a?style=plastic&logo=postman) 
 ![Vercel](https://img.shields.io/badge/Vercel-2a2a2a?style=plastic&logo=vercel) 
+![Netlify](https://img.shields.io/badge/Netlify-2a2a2a?style=plastic&logo=netlify)
 ![Heroku](https://img.shields.io/badge/Heroku-2a2a2a?style=plastic&logo=heroku) 
-![SocketIO](https://img.shields.io/badge/Socket.io-2a2a2a?style=plastic&logo=socket.io)
-
+<!-- ![SocketIO](https://img.shields.io/badge/Socket.io-2a2a2a?style=plastic&logo=socket.io)
+ -->
+ 
 <!-- ## 📈 My stats:
 
 <a href="https://github.com/sgf-HonestAnt/sgf-HonestAnt">
