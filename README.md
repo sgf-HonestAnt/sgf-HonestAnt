@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/Html5-2a2a2a?style=plastic&logo=html5) 
 ![CSS3](https://img.shields.io/badge/Css3-2a2a2a?style=plastic&logo=css3) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2a2a2a?style=plastic&logo=bootstrap) 
-![AntDesign](https://img.shields.io/badge/Antd-2a2a2a?style=plastic&logo=antd) 
+<!-- ![AntDesign](https://img.shields.io/badge/Antd-2a2a2a?style=plastic&logo=antd)  -->
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2a2a2a?style=plastic&logo=tailwindcss) 
 ![Redux](https://img.shields.io/badge/Redux-2a2a2a?style=plastic&logo=redux) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2a2a2a?style=plastic&logo=postgresql) 
