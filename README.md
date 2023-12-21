@@ -1,4 +1,4 @@
-# Hi! I'm Sarah, a developer at [Big Lemon!](https://biglemon.co.uk/) <img src="https://user-images.githubusercontent.com/82496944/158371286-0c66705f-081a-4d63-923f-6f8a781778a5.gif" width="30px">
+# Hi! I'm Sarah, a JavaScript developer! <img src="https://user-images.githubusercontent.com/82496944/158371286-0c66705f-081a-4d63-923f-6f8a781778a5.gif" width="30px">
 
 <!--
 **sgf-HonestAnt/sgf-HonestAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
