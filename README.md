@@ -17,27 +17,22 @@ Here are some ideas to get you started:
 
 <!-- ### I'm currently working on my <a href="https://portfolio-sgf-honestant.vercel.app/">portfolio</a>.
  -->
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=plastic&logo=mongodb) 
-![Express.js](https://img.shields.io/badge/Express.js-darkgreen?style=plastic&logo=express) 
-![React](https://img.shields.io/badge/React-darkgreen?style=plastic&logo=react) 
-![Next](https://img.shields.io/badge/Next.js-darkgreen?style=plastic&logo=nextdotjs) 
-![NodeJS](https://img.shields.io/badge/Node.js-darkgreen?style=plastic&logo=node.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-2a2a2a?style=plastic&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-2a2a2a?style=plastic&logo=typescript) 
-![HTML5](https://img.shields.io/badge/Html5-2a2a2a?style=plastic&logo=html5) 
-![CSS3](https://img.shields.io/badge/Css3-2a2a2a?style=plastic&logo=css3) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2a2a2a?style=plastic&logo=bootstrap) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2a2a2a?style=plastic&logo=tailwindcss) 
-![Redux](https://img.shields.io/badge/Redux-2a2a2a?style=plastic&logo=redux) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2a2a2a?style=plastic&logo=postgresql) 
-![Mongoose](https://img.shields.io/badge/Mongoose-2a2a2a?style=plastic&logo=npm) 
-![VSCode](https://img.shields.io/badge/VsCode-2a2a2a?style=plastic&logo=vscode) 
-![Postman](https://img.shields.io/badge/Postman-2a2a2a?style=plastic&logo=postman) 
-![Vercel](https://img.shields.io/badge/Vercel-2a2a2a?style=plastic&logo=vercel) 
-![Netlify](https://img.shields.io/badge/Netlify-2a2a2a?style=plastic&logo=netlify)
-![Heroku](https://img.shields.io/badge/Heroku-2a2a2a?style=plastic&logo=heroku) 
-<!-- ![SocketIO](https://img.shields.io/badge/Socket.io-2a2a2a?style=plastic&logo=socket.io)
- -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb) 
+![NodeJS](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-2a2a2a?style=for-the-badge&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/TypeScript-2a2a2a?style=for-the-badge&logo=typescript) 
+![VSCode](https://img.shields.io/badge/VsCode-2a2a2a?style=for-the-badge&logo=vscode) 
+![Vercel](https://img.shields.io/badge/Vercel-2a2a2a?style=for-the-badge&logo=vercel) 
+![Netlify](https://img.shields.io/badge/Netlify-2a2a2a?style=for-the-badge&logo=netlify)
  
 <!-- ## 📈 My stats:
 
