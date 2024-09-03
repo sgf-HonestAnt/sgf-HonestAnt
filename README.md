@@ -51,12 +51,11 @@ Here are some ideas to get you started:
 
 ### I am a full-stack developer driven by coffee ☕, a love for patterns 🌸🌹🌸🌹 and technology 👩‍💻. 
 ### I ❤️ my job & would like to make connections 🤝
-### You can find me on [facebook][1], [instagram][2] and [linkedin][3]
+### You can find me on [facebook][1] and [linkedin][3]
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.facebook.com/sarahguineverefisher
-[2]: https://www.instagram.com/sarah_the_dev/
 [3]: https://www.linkedin.com/in/sarahguineverefisher
 [4]: mailto:sgfishercardiff@gmail.com
 <!-- 
